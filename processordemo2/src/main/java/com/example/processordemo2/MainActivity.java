@@ -6,6 +6,9 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
+/**
+ * 测试
+ */
 @ContentView(R.layout.activity_main)
 public class MainActivity extends AppCompatActivity {
     @Inject(R.id.textView)
